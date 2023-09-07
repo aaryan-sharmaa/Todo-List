@@ -96,10 +96,6 @@ input {
   transition: transform 0.3s ease-out;
 }
 @media screen and (max-width: 768px) {
-  .container {
-    padding: 20px;
-  }
-
   .head {
     font-size: 20px;
   }
